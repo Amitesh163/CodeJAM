@@ -57,9 +57,9 @@ def SendMails():
 	Open_files_7()
 	Open_files_8()
 	
-	server = smtplib.SMTP("smtp.cc.iitk.ac.in",25)
+	server=smtplib.SMTP("smtp.cc.iitk.ac.in",25)
 	server.starttls()
-	server.login('amiteshs', 'amitesh163a@')
+	server.login('example', 'example')
 
 	msg = 'Subject: Need Blood in Emergency : Blood Donations\n\nHello Students,\n\nA friend of yours, ' + params[1] + ', in is need of blood urgently of ' + params[0] + ' blood group. Please do come and donate blood for him.\n\nKindly extend help.\n\n' + params[2] +'\nHealth center\nIITK'
 
