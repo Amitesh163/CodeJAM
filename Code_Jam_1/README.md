@@ -1,6 +1,12 @@
 Details about the files:
 
-The 'json' files contain the data of the email addresses of the students of specific blood group. The email_testing.py file contains the testing code for mailing the students of specific blood group. The selenium.py file contains the sample for accessing a website using python code. The tkinter.py file contains the code for emailing the students of specific blood groups and the code for the GUI. The Algorithm.md file contains the basic step-wise Algorithm that I used. The GUI.jpg files contains the image for the GUI formed. The email.jpg is the image of the sample mail sent to the students. 
+1. The 'json' files contain the data of the email addresses of the students of specific blood group.
+2. The email_testing.py file contains the testing code for mailing the students of specific blood group.
+3. The selenium.py file contains the sample for accessing a website using python code. 
+4. The tkinter.py file contains the code for emailing the students of specific blood groups and the code for the GUI. 
+5. The Algorithm.md file contains the basic step-wise Algorithm that I used.
+6. The GUI.jpg files contains the image for the GUI formed.
+7. The email.jpg is the image of the sample mail sent to the students. 
 
 Details about my working and Algorithm:
 
